@@ -1,0 +1,4 @@
+# Build with default arguments for the configure
+# this args are generate by autotools
+./configure	--prefix=/usr --exec-prefix=/usr --sysconfdir=/etc/mycpplib --bindir=/usr/bin --sbindir=/usr/sbin --libexecdir=/usr/libexec --sharedstatedir=/usr/com --localstatedir=/var --libdir=/usr/lib --includedir=/usr/include --oldincludedir=/usr/include --datarootdir=/usr/share --datadir=/usr/share --infodir=/usr/share/info --localedir=/usr/share/locale --mandir=/usr/share/man --docdir=/usr/share/doc/mycpplib --htmldir=/usr/share/doc/mycpplib --dvidir=/usr/share/doc/mycpplib --pdfdir=/usr/share/doc/mycpplib --psdir=/usr/share/doc/mycpplib
+
